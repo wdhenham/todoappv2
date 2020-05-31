@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arboreal-vector-277505",
+  "private_key_id": "2bf64cbefde987744c22132d9cac2d0b6aab3510",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQAjdJKO9som96\n1e1KmWLa67SJL51efoTtErRLPRQ0Y0aakUZL6hpS94YnxevLYCh9XJ5TmGme0zsS\nTyffyDQhVYmWeRwzJNrvmQwPiLTrjPhMw6DRsjwBIL331rYHccdOPy5Zg0sVfkEr\ng0J42/c10uCejtq9KfwPd2SUM/15CLu7K9mNT4bZ4b9jB6iYBgcZNEOykfEuwncV\nDD5qhjODo8c+U7ymoU7qBUNom9Udfkifm8aora0KkKvErncLyy6ZvSUHxKxDs3f4\ng22n4TkerGCcyFqPuwCQ64RYTdhFFBAaabafIBnoY6+t+kkflNACHWjp2rYQ9mAb\nZe3OTM2XAgMBAAECggEAHpSCJzshk9wqPSn6iZHqSBqzPyCPvLF8qP6BILc5OLMd\npqH+mTDbWjYx9A1IwJdW7IiIwuvFygfuMnS4/SZ0OjBWmsIcWg0sM2GnNcNt1wax\nsatoVwZ32YdEQQ2WU5raZ7pUfewWRkck8pjeAAxVQtrz6IDs+eFpwVEBVDkeexlV\n0wXW/f7+Pq4qhxnEvlUf9UUcuegk7K9kjZzMK5wEu2F4eanURhbdoojMPXgiS+mX\nAV0jJ5jq5vaSt4bmjBEZKNgglusIC90vQO48uYQRDRJYSwygI+rFLbst5QxIKDdb\ni83XFdTT5MUc+NqwtmEZ7ijC0hn/dUPYKMGOOEzlNQKBgQDySPs1VLJNczWqFtpy\n46DrIYUVRLqVxq5ZskOeqGaOVhNWKnEEFMmNNlzZK+u2mc4BIcleK9c4nKd6Erl6\nHWWczOb0h7XmQjCRx3dKTOrlRYBXANo1Nq6JcuMycsruYQXP2HPrCNPynQ0AQIL/\npChoh9/j1kS++6foP7/fBwlC3QKBgQDbyIaUAkB2B5+30z45K13lhN0OFW1/LLZR\n43jKZs9WHvDWhzk0U8eixbEnW2gSQWPUeFcYWHPG/aArer7LxvHmFSBxGaTUdoC9\nTAHy3wR7t762n8faZX2Jc2SqeclUBpndxm8Au16mNqB9sqMnG3KhkiTfPMrP09n8\nd61CR6BJAwKBgDCrgnMTIYI3a4dQce90VIYHRMGh/c1KjQmNqtG7SGa9WcMMYYmN\nV3ObgQlLLl2PBffqPpZBPkmsBmSaUFH8h8X4z0g93sdzcmhGZmsxilomHQLdM/hO\nlL8dqhAfSS6bpNw8wgRr0I/DBrKPQwFxi4B8EvikuUiYKwGXlMaLlkutAoGBAL1V\nNKICgpdrH+tS/jJvqnbTiz7btLUuxm0q4V6zTH+rLdwRJ3VtivgtB9yYwMGhNSfO\n93CQmkRdLwLlvcF8Q9zqbEUiSz2ATI1GEhOwjYMqmg9m+9qnPYsQLjMxsP9CpIBJ\ntkxSHUpgmsdOAYDqA0kuxbbN/wUkQpBcZJRJccoTAoGAF/9TreI8Kw+rCgKu0zl9\ng4PQCqmvTpWCEEavaeqnCON7GYeBonaWEavWIUHQYo5m0O7gO/U2HM2JOsdbnZeP\nWV4xwayPtY/S2RPZRLjTuLTAVFRgwkieMsyUpCE0vLfrTgEcmA4aJFYTmRRG25Ih\nr5mmk66rok6F0qNKmPXETxs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datastore-account@arboreal-vector-277505.iam.gserviceaccount.com",
+  "client_id": "116560653861969064014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datastore-account%40arboreal-vector-277505.iam.gserviceaccount.com"
+}
